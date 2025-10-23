@@ -4,6 +4,7 @@ public class App {
         System.out.println("Heltetsttstst!");
         System.out.println("Hello, Universe!");
         System.out.println("Hello, Multiverse!");
+        System.out.println("Hello, Omniverse!");
     }
 }
 //test tolong
